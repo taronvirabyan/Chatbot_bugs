@@ -1,0 +1,3 @@
+pinecone>=3.0.0
+sentence-transformers>=2.2.0
+requests>=2.25.0 
